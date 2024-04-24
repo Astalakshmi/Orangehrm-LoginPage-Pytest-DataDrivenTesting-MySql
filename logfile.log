@@ -1,0 +1,7 @@
+2024-04-23 19:34:37,633 :DEBUG : test_homepage :*****************************OrangeHRM-Testcase001******************
+2024-04-23 19:34:37,872 :DEBUG : test_homepage :***********Verify the Title of Login Page**************
+2024-04-23 19:34:44,662 :DEBUG : test_login :*****************************OrangeHRM-Testcase002******************
+2024-04-23 19:34:54,090 :ERROR : test_login :*******************Invalid Credentials**********************
+2024-04-23 19:35:01,093 :ERROR : test_login :*******************Invalid Credentials**********************
+2024-04-23 19:35:13,252 :DEBUG : test_login :********************Successfully login*****************
+2024-04-23 19:35:19,045 :INFO : test_login :**************Finished....*************
